@@ -1,4 +1,4 @@
-# geofabrik2shp
+# geofabrik2roads
 
 R Script to download and extract Canada OSM data, specifically road networks suitable for vehicles.
 
